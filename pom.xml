@@ -71,7 +71,6 @@
             <releaseBranchPrefix>release/${project.artifactId}-</releaseBranchPrefix>
             <hotfixBranchPrefix>hotfix/${project.artifactId}-</hotfixBranchPrefix>
             <versionTagPrefix>${project.artifactId}-</versionTagPrefix>
-            <commitMessagePrefix xml:space="preserve">[Duc Cao's Culi]</commitMessagePrefix>
           </gitFlowConfig>
         </configuration>
       </plugin>
